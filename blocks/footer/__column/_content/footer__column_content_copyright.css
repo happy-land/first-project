@@ -1,0 +1,6 @@
+.footer__column_content_copyright {
+  flex-basis: 711px; /* свойство элемента внутри контейнера footer__columns */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}

@@ -1,0 +1,14 @@
+.video__iframe {
+  border: 1px solid red;
+  width: 515px;
+  height: 316px;
+  list-style-type: none;
+}
+
+.video__iframe:nth-of-type(odd) {
+  margin-right: 10px;
+}
+
+.video__iframe:nth-of-type(even) {
+  margin-left: 10px;
+}
